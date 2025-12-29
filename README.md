@@ -212,6 +212,13 @@ Users <--> Dashboard Frontend <--> Backend API <--> Database
 
 Repositry https://github.com/bahrudin/basic-procurement-frontend
 
+## Tujuan Penggunaan
+
+- Prototype Sistem Procurement
+- Pembelajaran ERP / Inventory
+- Contoh Backend + Golang Fiber
+- Project Portofolio
+
 ## Lisensi
 
 MIT License © 2025 Bahrudin Ardiansyah  
