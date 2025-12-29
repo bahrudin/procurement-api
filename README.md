@@ -215,4 +215,4 @@ Repositry https://github.com/bahrudin/basic-procurement-frontend
 ## Lisensi
 
 MIT License © 2025 Bahrudin Ardiansyah  
-Bebas digunakan, dimodifikasi, dan disebarluaskan.
+Proyek ini sebagai portofolio bersifat open-source dan bebas digunakan untuk keperluan pembelajaran dan pengembangan
