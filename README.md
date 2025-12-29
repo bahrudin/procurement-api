@@ -147,7 +147,7 @@ cd procurement-api
 go mod tidy
 go run main.go
 ```
-3. Backend akan berjalan di `http://localhost:3000`.
+4. Backend akan berjalan di `http://localhost:3000`.
 
 
 
