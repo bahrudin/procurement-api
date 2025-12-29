@@ -196,13 +196,13 @@ https://api.domain.com/api/v1/resource
 Supplier --> Procurement --> Items --> Stock Update
 Users <--> Dashboard Frontend <--> Backend API <--> Database
 ```
-![ERD Purchase](\database\Diagram ERD.png "ERD")
+![ERD Purchase](database/Diagram ERD.png "ERD")
 
 ---
 
 ## Screenshots Postman 
 
-![ERD Purchase](\database\api-purchase.png "ERD")
+![ERD Purchase](database/api-purchase.png "ERD")
 
 
 ---
