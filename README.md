@@ -151,7 +151,7 @@ go run main.go
 
 
 
-### Migrasi Database & Seeder
+### Migrasi Database & Seeder (Opsional)
 
 - Migrasi database berada di folder `backend/migrations`.
 - Seeder data dummy berada di folder `backend/seeders`.
