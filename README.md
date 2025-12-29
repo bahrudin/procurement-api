@@ -179,14 +179,14 @@ https://api.domain.com/api/v1/resource
 
 
 ### Backend API
-| URL API Backend       | Fungsi              |
-|-----------------------|---------------------|
-| `/api/v1/register`    | Pengguna register   |
-| `/api/v1/login`       | Pengguna login      |
-| `/api/v1/auth/logout` | Pengguna keluar     |
-| `/api/v1/items`       | List semua items    |
-| `/api/v1/suppliers`   | List semua suppliers |
-| `/api/v1/purchases`            | List semua pembelian|
+| URL API Backend         | Fungsi              |
+|-------------------------|---------------------|
+| `/api/v1/auth/register` | Pengguna register   |
+| `/api/v1/auth/login`    | Pengguna login      |
+| `/api/v1/auth/logout`   | Pengguna keluar     |
+| `/api/v1/items`         | List semua items    |
+| `/api/v1/suppliers`     | List semua suppliers |
+| `/api/v1/purchases`     | List semua pembelian|
 
 ---
 
